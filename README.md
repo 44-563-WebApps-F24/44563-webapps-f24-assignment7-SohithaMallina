@@ -3,5 +3,7 @@
 Assignment 7 on DOM
 
 Hosted at: https://44-563-webapps-f24.github.io/44563-webapps-f24-assignment7-SohithaMallina/safari.html
+
 Hosted at: https://44-563-webapps-f24.github.io/44563-webapps-f24-assignment7-SohithaMallina/precision.html
+
 Hosted at: https://44-563-webapps-f24.github.io/44563-webapps-f24-assignment7-SohithaMallina/divlist.html
